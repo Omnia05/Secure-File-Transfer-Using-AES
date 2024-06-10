@@ -1,4 +1,4 @@
-#The client is the sender
+#The client is the sender  
 #The server is the reciever
 
 import os
