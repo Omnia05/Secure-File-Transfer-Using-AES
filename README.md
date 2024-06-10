@@ -6,10 +6,10 @@ The file is transmitted via TCP sockets, assumming that both the client and serv
 ## Prerequisites
 
 Make sure to have pycryptodome and tqdm installed, if not done already.  
-Instructions for installation:  
-    Run the following commands on your terminal.  
-        1. pip install pycryptodome  
-        2. pip install tqdm
+    Instructions for installation:  
+      Run the following commands on your terminal.  
+          1. pip install pycryptodome  
+          2. pip install tqdm
 
 ## Instructions
 
